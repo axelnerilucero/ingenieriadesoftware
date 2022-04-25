@@ -20,7 +20,7 @@ public class ElectronicaFactory {
                 return new Computadora("ASUS", false, "i7-11389H", "16 GB", true, "2 TB");
 
             case Electronica.COMPUTADORA_ASUS:
-                return new Computadora("ASUS", true, "7-1165G7", "8 GB", true, "1 TB");
+                return new Computadora("ASUS", true, "i7-1165G7", "8 GB", true, "1 TB");
                 
             case Electronica.COMPUTADORA_MACBOOKPRO:
                 return new Computadora("Apple", true, "i9-12342U", "12 GB", true, "256 GB");
